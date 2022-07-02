@@ -133,6 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Content Class refactoring starts here*/
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -172,22 +174,13 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+/*--New class added, repetitive code removed--*/
+.description h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/*--Footer class--*/
 .footer {
     padding: 30px;
     clear: both;
