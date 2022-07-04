@@ -14,6 +14,10 @@ Added Web page title
 
 Added Web page icon
 
+Fixed text-align in Benefits. 
+
+Added several comment to html and css files
+
 
 
 
