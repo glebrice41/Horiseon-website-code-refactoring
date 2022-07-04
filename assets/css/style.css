@@ -81,6 +81,7 @@ p {
   background-color: #2589bd;
   text-align: center;
 }
+/*Added classes to HTML file, "Benefits info" part and removed repetitive code from CSS*/
 
 .benefit_info {
   margin-bottom: 32px;
@@ -103,11 +104,12 @@ p {
 
 /*CSS part responsible for Product information. CSS provides size of text and images, their style and location*/
 .content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-  }
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
 
+/*Added classes to HTML file, "Product content info" part and removed repetitive code from CSS*/
 .product_info {
   margin-bottom: 20px;
   padding: 50px;
