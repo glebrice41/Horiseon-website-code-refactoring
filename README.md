@@ -16,11 +16,6 @@ Add Web page icon
 
 Fix text-align in Benefits. 
 
-Add several comment to html and css files
+Add several comments to html and css files
 
-
-
-
-
-
-
+Polishing of HTML and CSS files
