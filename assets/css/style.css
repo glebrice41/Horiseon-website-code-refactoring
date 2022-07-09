@@ -81,24 +81,24 @@ p {
   background-color: #2589bd;
   text-align: center;
 }
-/*Added classes to HTML file, "Benefits info" part and removed repetitive code from CSS*/
+/*Added classes to HTML file, "Benefits info" part, repetitive code was removed from CSS*/
 
-.benefit_info {
+.benefit-info {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit_title h3 {
+.benefit-title h3 {
   margin-bottom: 10px;
 }
 
-.benefit_image {
+.benefit-image {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.benefits_text {
+.benefits-text {
   text-align: left;
 }
 
@@ -109,8 +109,8 @@ p {
   margin-left: 20px;
 }
 
-/*Added classes to HTML file, "Product content info" part and removed repetitive code from CSS*/
-.product_info {
+/*Added classes to HTML file, "Product content info" part, repetitive code was removed from CSS*/
+.product-info {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -119,11 +119,11 @@ p {
   color: #ffffff;
 }
 
-.product_info img {
+.product-info img {
   max-height: 200px;
 }
 
-.product_info h2 {
+.product-info h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }

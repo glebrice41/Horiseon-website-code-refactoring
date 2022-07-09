@@ -4,19 +4,19 @@ New repository with the name "challenge-1-horiseon" was created.
 
 Added README file from the assigment as I forgot to do this when I pushed assets folder to GH
 
-Fixed "Serched Engine Optimization" header link. It was inactive.
+Fix "Serched Engine Optimization" header link. It's inactive.
 
-Added class "product_info" to Product content info . Repetitive code was deleted from CSS
+Add class "product_info" to Product content info. Delete repetitive code was from CSS
 
-Added several classes to Benefits info. Repetitive code was deleted from CSS
+Add several classes to Benefits info. Delete repetitive code was from CSS
 
-Added Web page title
+Add Web page title
 
-Added Web page icon
+Add Web page icon
 
-Fixed text-align in Benefits. 
+Fix text-align in Benefits. 
 
-Added several comment to html and css files
+Add several comment to html and css files
 
 
 
