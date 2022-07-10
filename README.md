@@ -20,3 +20,8 @@ If user clicks on navigation link, website will scroll to the dedicated part of 
 
 
 Direct link to refactored website - https://glebrice41.github.io/code_refactor/
+
+Code to clone:
+SSH - git@github.com:glebrice41/code_refactor.git
+HTPS - https://github.com/glebrice41/code_refactor.git
+GH CLI - gh repo clone glebrice41/code_refactor
