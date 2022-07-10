@@ -17,10 +17,10 @@ body contains semantic elements header and nav. Product and Benefits paragraphs.
 
 
 
-Direct link to refactored website - https://glebrice41.github.io/code_refactor/
+Direct link to refactored website - https://glebrice41.github.io/Horiseon-website-code-refactoring/
 
 Code to clone:
   
-<p>1.SSH - git@github.com:glebrice41/code_refactor.git</p>
-<p>2.HTPS - https://github.com/glebrice41/code_refactor.git</p>
-<p>3.GH CLI - gh repo clone glebrice41/code_refactor<p>
+<p>1.SSH - git@github.com:glebrice41/Horiseon-website-code-refactoring.git</p>
+<p>2.HTPS - https://github.com/glebrice41/Horiseon-website-code-refactoring.git</p>
+<p>3.GH CLI - gh repo clone glebrice41/Horiseon-website-code-refactoring<p>
